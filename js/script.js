@@ -10,14 +10,24 @@
  * Check service worker.
  */
 if (navigator.serviceWorker) {
-  navigator.serviceWorker.register("/ICS2O-PWA-Test/sw.js", {
-    scope: "/ICS2O-PWA-Test/",
+  navigator.serviceWorker.register("/ICS2O-Unit3-02/sw.js", {
+    scope: "/ICS2O-Unit3-02/",
   })
 }
 
 /**
- * This function displays an alert.
+ * This function calculates the area of a pyramid
  */
-function myButtonClicked() {
-  document.getElementById("hello-world").innerHTML = "<p>Hello, World!</p>"
+ function enterClicked() {
+  //input
+  const length = parseFloat(document.getElementById("length-of-pyramid").value)
+  const width = parseFloat(document.getElementById("width-of-pyramid").value)
+  const height = parseFloat(document.getElementById("height-of-pyramid").value)
+
+  //process
+  const area = (length * width * height) / 3
+
+  //output
+  document.getElementById("area-of-pyramid").innerHTML =
+    "The area of the pyramid is: " + area.toFixed(2) + " cm²."
 }
