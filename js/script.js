@@ -18,7 +18,7 @@ if (navigator.serviceWorker) {
 /**
  * This function calculates the area of a pyramid
  */
- function enterClicked() {
+function enterClicked() {
   //input
   const length = parseFloat(document.getElementById("length-of-pyramid").value)
   const width = parseFloat(document.getElementById("width-of-pyramid").value)
