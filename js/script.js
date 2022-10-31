@@ -25,9 +25,9 @@ function enterClicked() {
   const height = parseFloat(document.getElementById("height-of-pyramid").value)
 
   //process
-  const area = (length * width * height) / 3
+  const volume = (length * width * height) / 3
 
   //output
-  document.getElementById("area-of-pyramid").innerHTML =
-    "The area of the pyramid is: " + area.toFixed(2) + " cm²."
+  document.getElementById("volume-of-pyramid").innerHTML =
+    "The volume of the pyramid is: " + volume.toFixed(2) + " cm²."
 }
