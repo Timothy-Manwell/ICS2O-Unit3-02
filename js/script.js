@@ -16,7 +16,7 @@ if (navigator.serviceWorker) {
 }
 
 /**
- * This function calculates the area of a pyramid
+ * This function calculates the volume of a pyramid
  */
 function enterClicked() {
   //input
