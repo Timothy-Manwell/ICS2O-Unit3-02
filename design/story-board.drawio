@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="pIaEtrtLPv3HG8r1JEND" name="Page-1">
-        <mxGraphModel dx="1191" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="934" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -13,46 +13,46 @@
                 <mxCell id="6" value="Calculate" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;" parent="1" vertex="1">
                     <mxGeometry x="100" y="420" width="100" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Volume of a Pyramid, with JS&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+                <mxCell id="8" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Volume of a Pyramid, with JS&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
                     <mxGeometry x="90" y="130" width="320" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="9" value="image" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+                <mxCell id="9" value="image" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" parent="1" vertex="1">
                     <mxGeometry x="410" y="140" width="140" height="140" as="geometry"/>
                 </mxCell>
-                <mxCell id="10" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Formula&lt;br&gt;V = (L x W x H) / 3&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+                <mxCell id="10" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Formula&lt;br&gt;V = (L x W x H) / 3&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
                     <mxGeometry x="90" y="160" width="170" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="11" value="Enter the following dimensions" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+                <mxCell id="11" value="Enter the following dimensions" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
                     <mxGeometry x="90" y="195" width="230" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="12" value="Length" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+                <mxCell id="12" value="Length" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
                     <mxGeometry x="90" y="225" width="200" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="13" value="Width" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+                <mxCell id="13" value="Width" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
                     <mxGeometry x="90" y="280" width="200" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="14" value="Height" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+                <mxCell id="14" value="Height" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
                     <mxGeometry x="90" y="340" width="200" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="16" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+                <mxCell id="16" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
                     <mxGeometry x="90" y="250" width="130" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="17" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+                <mxCell id="17" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
                     <mxGeometry x="90" y="310" width="130" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="18" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+                <mxCell id="18" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
                     <mxGeometry x="90" y="380" width="130" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="19" value="mm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+                <mxCell id="19" value="mm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
                     <mxGeometry x="220" y="245" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="20" value="mm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+                <mxCell id="20" value="mm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
                     <mxGeometry x="220" y="305" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="21" value="mm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+                <mxCell id="21" value="mm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
                     <mxGeometry x="220" y="375" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="22" value="The volume of the pyramid is: ? mm²" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+                <mxCell id="22" value="The volume of the pyramid is: ? mm³" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
                     <mxGeometry x="90" y="470" width="300" height="30" as="geometry"/>
                 </mxCell>
             </root>
